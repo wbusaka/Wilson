@@ -1,0 +1,63 @@
+.appeal {
+    background:rgba(0,0,0,0.1);
+}
+
+body {
+    background-color: lawngreen;
+    color:black;
+    font:tahoma 20px;
+    text-indent: 0.5cm;
+    background: url("../images/wil4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-content: center;
+
+}
+
+header>h1{
+    color:white;
+}
+
+h1 {
+    text-align:center;
+    font: 40px helvetica tahoma white;
+    font-weight: bold;
+    background-color: blue;
+    margin-top: 20px;
+    border: 10px 10px orangered solid;
+    text-decoration-color: crimson;
+    letter-spacing: 2px;
+    font-style: oblique;
+}
+
+/* h1:hover{
+color:red;
+} */
+
+p:focus{
+    color:blue;
+}
+footer {
+    color:whitesmoke;
+    font: 20px tahoma;
+    background-color: blue;
+    text-align: center;
+}
+
+form{
+    margin-top: 10vh;
+}
+
+.content{
+    background-color:rgba(0,0,0,0.5);
+}
+
+.code{
+    background-color:rgba(0,0,0,0.5);
+}
+
+.po {
+    background: url("../images/forest.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
